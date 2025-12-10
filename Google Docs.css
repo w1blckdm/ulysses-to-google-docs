@@ -192,7 +192,6 @@ pre {
 	text-align:    left;
 	line-height:   1.2em;
 	overflow-x:    scroll;
-	background:    #f8f8f8;
 	padding:       20pt;
 	margin:        20pt 0;
 	border-radius: 3pt;
@@ -263,17 +262,14 @@ pre {
 
 .syntax-deleted {
 	color:            #b31d28;
-	background-color: #ffeef0;
 }
 
 .syntax-inserted {
 	color:            #22863a;
-	background-color: #f0fff4;
 }
 
 .syntax-changed {
 	color:            #e36209;
-	background-color: #ffebda;
 }
 
 .syntax-link {
