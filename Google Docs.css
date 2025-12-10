@@ -70,6 +70,7 @@ video {
 
 p {
 	margin: 0 0 1.5em;
+	text-indent: -3em;
 }
 
 a:focus, a:hover {
